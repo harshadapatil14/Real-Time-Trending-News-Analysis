@@ -1,1 +1,1 @@
-# Smartphone-Price-Analytics-Engine
+#Real-Time trending News Analysis
