@@ -1,1 +1,1 @@
-# Real-Time trending News Analysis
+# Real-Time Trending News
