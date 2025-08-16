@@ -1,3 +1,4 @@
+
 # Real-Time trending News Analysis
 
 
@@ -116,3 +117,4 @@ This project is licensed under the MIT License.
 Author
 Developed by Harshada Patil
 Developed by Pallavi Dudhalkar
+
